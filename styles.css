@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body {
+font-family: inter;
+background-color: lightgreen;
+color: #e0def4;
+text-align: center;
+}
+
+a {
+color: #c4a7e7
+}
+
+.notes {
+font-size: 14px
+}
